@@ -41,7 +41,7 @@ de centraliser et de consulter ses différentes informations :
 - vaccinations ;
 - autres informations importantes concernant l'animal.
 
-[→ Voir le projet](LIEN_VERS_MEDIPAW)
+[→ Voir le projet](https://github.com/SihamWeb/MediPaw)
 
 ---
 
@@ -76,7 +76,7 @@ J'ai notamment participé à :
 - la liaison entre les données saisies et les données utilisées par
   l'application.
 
-[→ Voir le projet](LIEN_VERS_PROCRASTINATOR)
+[→ Voir le projet](https://github.com/Noemie-dmyr/Procrastinator_Simplon_AFP)
 
 ---
 
