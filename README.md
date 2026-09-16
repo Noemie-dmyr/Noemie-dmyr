@@ -52,6 +52,9 @@ Les données renseignées sont conservées entre les différentes sessions
 d'utilisation et restent disponibles jusqu'à leur suppression par
 l'utilisateur.
 
+*Projet réalisé en équipe dans le cadre de ma formation. Le repository est hébergé sur le compte
+GitHub de l'équipe*
+
 [→ Voir le projet](https://github.com/SihamWeb/MediPaw)
 
 ---
