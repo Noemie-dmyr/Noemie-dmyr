@@ -108,8 +108,7 @@ de l'application.
 - Swift
 - SwiftUI
 - Xcode
-- Git
-- GitHub
+- Git / GitHub
 
 ### 📚 En cours d'apprentissage
 
