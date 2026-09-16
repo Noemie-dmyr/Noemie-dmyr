@@ -1,7 +1,6 @@
 # Bonjour, moi c'est Noémie
 
-Je m'intéresse au développement d'applications et à la conception d'outils
-numériques utiles et accessibles.
+Je m'intéresse au développement d'applications et à la conception d'outils numériques utiles, accessibles et plus sobres en ressources.
 
 À travers différents projets réalisés en formation, notamment en développement
 iOS, j'ai commencé à développer mes compétences en programmation, en conception
