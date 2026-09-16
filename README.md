@@ -3,14 +3,16 @@
 Je m'intéresse au développement d'applications et à la conception d'outils
 numériques utiles et accessibles.
 
-À travers différents projets, notamment en développement iOS, j'ai commencé
-à développer mes compétences en programmation, en conception d'interfaces
-et en gestion de données.
+À travers différents projets réalisés en formation, notamment en développement
+iOS, j'ai commencé à développer mes compétences en programmation, en conception
+d'interfaces et en gestion de données.
 
 Je souhaite aujourd'hui approfondir mes compétences en développement
-d'applications et me former à l'éco-conception numérique, afin d'apprendre
+d'applications et me former à l'**écoconception numérique**, afin d'apprendre
 à concevoir des applications fonctionnelles, pertinentes et plus sobres en
 ressources.
+
+---
 
 ## 💻 Mes projets
 
@@ -18,28 +20,37 @@ ressources.
 
 **Projet d'équipe — 2025**
 
-MediPaw est une application iOS permettant de suivre la santé de son animal
-de compagnie.
+MediPaw est une application iOS dédiée au suivi de la santé des animaux de
+compagnie.
 
 L'application propose notamment :
+
 - 🩺 suivi des maladies et traitements ;
 - 💉 suivi des vaccinations ;
 - 📅 prise de rendez-vous vétérinaire et rappels ;
-- 🗺️ carte interactive des vétérinaires ;
-- 🐶 fiche détaillée de l'animal ;
-- 📱 fiche simplifiée partageable en cas de perte.
+- 🗺️ carte interactive et géolocalisée des vétérinaires ;
+- 🐶 fiche complète et détaillée de l'animal ;
+- 📱 fiche simplifiée partageable en cas de perte, avec les coordonnées des
+  propriétaires.
 
-**Ma contribution**
+### Ma contribution
 
-J'ai principalement travaillé sur la fiche profil de l'animal, permettant
-de centraliser et de consulter ses différentes informations :
+J'ai principalement travaillé sur la **création de la fiche profil de
+l'animal**, permettant de centraliser et de consulter ses différentes
+informations.
 
-- espèce et race ;
-- âge et genre ;
-- maladies ;
-- traitements ;
-- vaccinations ;
-- autres informations importantes concernant l'animal.
+J'ai notamment travaillé sur :
+
+- l'espèce et la race ;
+- l'âge et le genre ;
+- les maladies ;
+- les traitements ;
+- les vaccinations ;
+- les autres informations importantes concernant l'animal.
+
+Les données renseignées sont conservées entre les différentes sessions
+d'utilisation et restent disponibles jusqu'à leur suppression par
+l'utilisateur.
 
 [→ Voir le projet](https://github.com/SihamWeb/MediPaw)
 
@@ -47,34 +58,44 @@ de centraliser et de consulter ses différentes informations :
 
 ### 🌱 Procrastinator
 
-**Projet d'équipe**
+**Projet d'équipe — première formation**
 
 Procrastinator est une application mobile conçue pour accompagner les
 utilisateurs dans l'accomplissement de tâches du quotidien grâce à un système
 de rappels et de gamification.
 
+L'application a été pensée notamment pour les personnes pouvant rencontrer
+des difficultés à accomplir certaines tâches quotidiennes, parfois simples
+en apparence mais pouvant représenter un véritable challenge dans certaines
+situations de fragilité.
+
 L'application propose notamment :
+
 - 📋 création et programmation de tâches ;
 - 🔔 rappels ;
 - 🏷️ catégorisation des tâches ;
-- 📝 notes complémentaires ;
+- 📝 ajout de notes complémentaires ;
 - 🎮 système de gamification ;
 - 🏆 récompenses pour les tâches accomplies.
 
-**Ma contribution**
+### Ma contribution
 
-J'ai principalement travaillé sur la fonctionnalité de création d'une
-nouvelle tâche, à la fois sur sa conception visuelle et sur son
+J'ai principalement travaillé sur la **fonctionnalité de création d'une
+nouvelle tâche**, à la fois sur sa conception visuelle et sur son
 implémentation.
 
 J'ai notamment participé à :
+
 - la conception de l'interface ;
 - l'organisation des informations demandées à l'utilisateur ;
 - la sélection du nom et de la catégorie ;
 - la gestion de la date et du rappel ;
 - l'ajout de notes complémentaires ;
-- la liaison entre les données saisies et les données utilisées par
-  l'application.
+- la gestion des données associées aux informations saisies.
+
+Dans cette première réalisation, les données des tâches sont conservées
+pendant la session d'utilisation et sont réinitialisées lors de la fermeture
+de l'application.
 
 [→ Voir le projet](https://github.com/Noemie-dmyr/Procrastinator_Simplon_AFP)
 
@@ -98,8 +119,8 @@ J'ai notamment participé à :
 ## 🎯 Mon objectif
 
 Continuer à développer mes compétences en programmation et en développement
-d'applications, tout en approfondissant les principes de l'écoconception
-numérique.
+d'applications, tout en approfondissant les principes de l'**écoconception
+numérique**.
 
 Je souhaite notamment apprendre à prendre en compte la sobriété numérique
 et l'impact environnemental dès les premières étapes de conception d'une
